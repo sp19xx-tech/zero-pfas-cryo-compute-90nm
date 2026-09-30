@@ -3,7 +3,7 @@ Zero-PFAS Cryogenic Compute Block (90nm 3D-Neuromorphic)
 
 An open-source infrastructure concept to solve the global energy crisis, eliminate semiconductor PFAS pollution, and bypass the sub-3nm EUV lithography bottleneck using mature 90nm fabrication nodes.
 
-## 🔗 References & Scientific Background
+## 🔗 References Background
 
 This repository serves as the official computational implementation bridge for the theoretical pre-print:
 
