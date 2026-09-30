@@ -3,6 +3,12 @@ Zero-PFAS Cryogenic Compute Block (90nm 3D-Neuromorphic)
 
 An open-source infrastructure concept to solve the global energy crisis, eliminate semiconductor PFAS pollution, and bypass the sub-3nm EUV lithography bottleneck using mature 90nm fabrication nodes.
 
+## 🔗 References & Scientific Background
+
+This repository serves as the official computational implementation bridge for the theoretical pre-print:
+
+*   **Direct Ribbon Access:** [View Paper on Zenodo](https://zenodo.org/records/23056032)
+
 ## Core Architecture Concept
 
 This repository hosts the theoretical framework and mathematical verification models for a **Thermodynamically Stabilized Computing Block**. Instead of scaling down to fragile 2nm nodes, this design scales vertically using mature **90nm Spiking Neural Network (SNN) neuromorphic chips** optimized for a stabilized cryogenic environment.
